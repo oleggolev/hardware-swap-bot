@@ -19,4 +19,7 @@ Use `gofmt` or `golint` on `.go` files and `go mod tidy` on `go.mod`
 TODO
 
 ### Relevant documentation
-TODO
+Reddit API:
+- https://www.reddit.com/dev/api
+- https://github.com/reddit-archive/reddit/wiki/OAuth2
+- https://github.com/reddit-archive/reddit/wiki/API-Wrappers
